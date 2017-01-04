@@ -9,3 +9,8 @@ Organize ADF (https://en.wikipedia.org/wiki/Auto-lead_Data_Format) workflow. Get
 Google App Engine, Google Pub Sub, Google Big Data, Python
 
 ## Challenges
+
+Error handling, logging, unit testing.
+
+## Workflow Diagram
+![Workflow Diagram](Vroom%20Adf%20WorkFlow.png)
