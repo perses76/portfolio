@@ -17,4 +17,4 @@ we need to find the fastest way to process files.
 To accomplish it, we use stream reading by chunk and python generators to return data on each level of processing.
 
 ## Class Diagram
-![Class Diagram](LogAnalyser.png.png)
+![Class Diagram](LogAnalyser.png)
