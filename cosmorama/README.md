@@ -1,6 +1,8 @@
 # Cosmorama
 
- - **Organization:** 2003 - Now 
+ - **Date:** 2003 - Now
+ - **Organization:** Cosmorama
+ - **Url:** http://www.cosmorama.gr/
 
 Travel agency portal
 
@@ -10,6 +12,8 @@ Travel agency portal
  4. Newsletters
  5. Search Engine Optimization
  5. Admin sections
+ 1. Content managment
+ 1. Security
 
 ## Technologies
 
