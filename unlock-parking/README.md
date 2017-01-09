@@ -10,7 +10,7 @@ Create proptotype for parking places location serice:
  4. Create jQUery plugin to implement the app on a customer site.
 
 ## Technologies
-Azure, Kudu Continues Integration, ASP.NET Core, EnityFramework 6, MS SQL, JavaScript, jQuery
+Azure, Kudu Continues Integration, ASP.NET Core, Web API, EnityFramework 6, MS SQL, JavaScript, jQuery
 
 ## Challenges
 
