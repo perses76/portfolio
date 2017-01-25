@@ -1,6 +1,6 @@
 # Ivysaur
 
- - **Date:** November, 2016
+ - **Date:** October, 2016 - December, 2016
 
 Question/Answer education application. My resposibility was to provide backend API for iOS application.
 
